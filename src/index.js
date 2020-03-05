@@ -1,3 +1,5 @@
 import { hello } from './sub'
 
-hello()
+// hello()
+
+console.log('test')
